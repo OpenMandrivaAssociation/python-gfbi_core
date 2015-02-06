@@ -3,7 +3,7 @@
 
 Name: 		python-%{upstream_name}
 Version: 	0.5
-Release: 	2
+Release: 	3
 Summary: 	Core files for interactive git filter branch
 License:	BSD
 Group: 		Development/Python

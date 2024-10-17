@@ -7,7 +7,7 @@ Release: 	3
 Summary: 	Core files for interactive git filter branch
 License:	BSD
 Group: 		Development/Python
-Url: 		http://pypi.python.org/pypi/gfbi_core
+Url: 		https://pypi.python.org/pypi/gfbi_core
 Source0: 	http://pypi.python.org/packages/source/g/gfbi_core/gfbi_core-%{version}%{beta}.tar.gz
 Requires:       python-gitpython
 BuildArch:      noarch
